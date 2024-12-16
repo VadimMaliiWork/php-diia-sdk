@@ -1,0 +1,5 @@
+# ignore everything in the root except the "wp-content" directory.
+/.idea
+.htaccess
+# ignore everything in the "wp-content" directory, except:
+# "mu-plugins", "plugins", "themes" directory
